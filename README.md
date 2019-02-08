@@ -7,7 +7,7 @@ This repository is the primary location for
 
 ## Have problems getting started?
 
-* We are happy to help on [our Discord](https://thegraph.com/discord). Ping us in the `#engineering` channel!
+We are happy to help on [our Discord](https://thegraph.com/discord). Ping us in the `#engineering` channel!
 
 ## Encountered an bug on the Hosted Service?
 
