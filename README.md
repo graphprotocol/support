@@ -9,7 +9,13 @@ This repository is the primary location for
 
 We are happy to help on [our Discord](https://thegraph.com/discord). Ping us in the `#engineering` channel!
 
-We are also collecting [Frequently Asked Questions](https://github.com/graphprotocol/support/wiki/faq) and [Common Problems](https://github.com/graphprotocol/support/wiki/common-problems) to help you be productive.
+We are also collecting
+
+* [Frequently Asked Questions](https://github.com/graphprotocol/support/wiki/faq)
+* [Common Problems](https://github.com/graphprotocol/support/wiki/common-problems)
+* [Common Patterns](https://github.com/graphprotocol/support/wiki/common-patterns)
+
+to help you be productive.
 
 ## Encountered an bug on the Hosted Service?
 
