@@ -12,7 +12,6 @@ We are happy to help on [our Discord](https://thegraph.com/discord). Ping us in 
 We are also collecting
 
 * [Frequently Asked Questions](https://github.com/graphprotocol/support/wiki/faq)
-* [Common Problems](https://github.com/graphprotocol/support/wiki/common-problems)
 * [Common Patterns](https://github.com/graphprotocol/support/wiki/common-patterns)
 
 to help you be productive.
