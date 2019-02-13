@@ -4,6 +4,7 @@ This repository is the primary location for
 
 * Issues with the hosted service on https://thegraph.com/
 * Feature requests from the community
+* Answers to frequently asked questions and common problems
 
 ## Have questions or problems getting started?
 
