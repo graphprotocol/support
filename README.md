@@ -16,7 +16,7 @@ We are also collecting
 
 to help you be productive.
 
-## Encountered an bug on the Hosted Service?
+## Encountered a bug on the Hosted Service?
 
 Please [file a bug here](https://github.com/graphprotocol/support/issues/new?labels=bug).
 
